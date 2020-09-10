@@ -12,7 +12,7 @@
     },
     "review": {
       "type": "component",
-      "repeatable": false,
+      "repeatable": true,
       "component": "page.review",
       "required": true
     }
